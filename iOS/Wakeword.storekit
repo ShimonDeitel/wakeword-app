@@ -1,0 +1,40 @@
+{
+  "identifier": "1",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "21000000",
+      "localizations": [],
+      "name": "Wakeword Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "2100001",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Searchable archive and monthly recap view",
+              "displayName": "Wakeword Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.affirmationlog.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Wakeword Pro Monthly",
+          "subscriptionGroupID": "21000000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
